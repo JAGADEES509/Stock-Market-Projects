@@ -2,6 +2,19 @@
 
 A collection of Python-based stock market analysis and prediction projects developed using machine learning, deep learning, and natural language processing techniques.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Projects](#projects)
+- [Technologies](#technologies)
+- [How to Run](#how-to-run)
+- [Notes](#notes)
+- [Disclaimer](#disclaimer)
+
+## Project Overview
+
+This repository contains five Python notebooks exploring stock market prediction through machine learning, deep learning, and news sentiment analysis. It covers data preprocessing, model development, and performance evaluation.
+
 ## Projects
 
 ### 1. Fundamental Analysis — `Fundamental.ipynb`
